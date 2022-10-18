@@ -1,8 +1,7 @@
-import { Grid } from "@chakra-ui/react";
 import { FC } from "react";
 
 const LayoutDemoPage: FC = () => {
-  return <Grid></Grid>;
+  return <div></div>;
 };
 
 export default LayoutDemoPage;

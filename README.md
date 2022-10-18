@@ -8,11 +8,11 @@ React Training:
 
 Session 1:
 
-# day1: React Layout
+# day1: Components, Dark mode design system
 
-# day2: Responsive
+# day2: Layout
 
-# day3: Components, Dark mode design system
+# day3: Responsive
 
 # day4: Hooks, Context, Form,
 
